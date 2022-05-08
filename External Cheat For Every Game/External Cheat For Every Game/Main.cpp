@@ -17,5 +17,5 @@ int main()
 		//Write<int>(Base + 0x123456, 100); // Writing value 100 to the current adress off the game
 	}
 	CloseHandle(hProcess);
-	Printa.Fail("Hack loop stopped")
+	Printa.Fail("Hack loop stopped");
 }
